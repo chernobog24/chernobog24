@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning all of the above
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me through my git
--
 
 <!---
 chernobog24/chernobog24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
