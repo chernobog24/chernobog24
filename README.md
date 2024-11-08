@@ -1,4 +1,4 @@
-# 🎉 Welcome to My Neural Network Hub! 🤖
+# 🎉 Welcome to My Neural Network! 🤖
 
 **Hello, World!** Or should I say, **Hello, Multiverse!**
 
